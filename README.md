@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/147109748-2a404a63-37fe-41a9-816e-b6000e80e369.png" align="left" height="150px" width="150px">
+    <h1># Integrando um Backend em Node.js com um Frontend em React para um E-commerce</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Aprenda como integrar um Front-end em React com uma API REST (desenvolvida em Node.js). Para isso, será apresentado uma abordagem totalmente prática de desenvolvimento, onde dicas e boas práticas fazem parte do seu percurso. Como desafio, reproduza ou faça um "fork" nos projetos.
     </p>
 </p>      
 
